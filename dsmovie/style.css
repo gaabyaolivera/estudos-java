@@ -34,6 +34,10 @@ nav {
     justify-content: space-between;
 }
 
+.dsmovie-contact-container img{
+    margin-right: 10px;
+}
+
 /* Main */
 #dsmovie-card-list{
     padding: 40px 0;
